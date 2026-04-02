@@ -81,8 +81,8 @@ const AdsPhoto = () => {
                                 <source media="(max-width: 40em)" srcSet="/images/banner/before.png" />
                                 <source media="(min-width: 40.0625em) and (max-width: 48em)"
                                     srcSet="/images/banner/before.png" />
-                                <img src="/images/banner/before.png" alt="Mojave desert in the sun"
-                                    className="image-comparison__image" />
+                                {/* <img src="/images/banner/before.png" alt="Mojave desert in the sun" */}
+                                    {/* className="image-comparison__image" /> */}
                             </picture>
 
                             <figcaption
@@ -112,8 +112,8 @@ const AdsPhoto = () => {
                                 <source media="(max-width: 40em)" srcSet="/images/banner/after.png" />
                                 <source media="(min-width: 40.0625em) and (max-width: 48em)"
                                     srcSet="/images/banner/after.png" />
-                                <img src="/images/banner/after.png" alt="Mojave desert in the dark"
-                                    className="image-comparison__image after" />
+                                {/* <img src="/images/banner/after.png" alt="Mojave desert in the dark"
+                                    className="image-comparison__image after" /> */}
                             </picture>
 
                             <figcaption

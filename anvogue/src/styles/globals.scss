@@ -130,7 +130,7 @@ input[type="file"] {
 }
 
 .text-display {
-  font-size: 80px;
+  font-size: 75px;
   font-weight: 500;
   line-height: 88px;
   text-transform: capitalize;
@@ -223,7 +223,7 @@ input[type="file"] {
   font-weight: 600;
   text-transform: uppercase;
   color: var(--white);
-  background-color: var(--black);
+  background-color: #da7a32;
   padding: 16px 40px;
   border-radius: 12px;
   display: inline-block;
@@ -231,8 +231,8 @@ input[type="file"] {
   transition: all ease 0.4s;
 
   &:hover {
-    background-color: var(--green);
-    color: var(--black);
+    background-color: #c14831;
+    color: var(--white);
 
     svg {
       path {

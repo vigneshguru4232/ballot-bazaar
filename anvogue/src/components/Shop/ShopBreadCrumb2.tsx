@@ -201,7 +201,7 @@ const ShopBreadCrumb2: React.FC<Props> = ({ data, productPerPage, dataType }) =>
                     <div className="container lg:pt-[134px] pt-24 relative">
                         <div className="main-content w-full h-full flex flex-col items-center justify-center relative z-[1]">
                             <div className="text-content">
-                                <div className="heading2 text-center">{dataType === null ? 'Shop' : dataType}</div>
+                                <div className="heading2 text-center">{dataType === null ? 'Shop----' : dataType}</div>
                             </div>
                         </div>
                     </div>
@@ -242,7 +242,7 @@ const ShopBreadCrumb2: React.FC<Props> = ({ data, productPerPage, dataType }) =>
                                     </div>
                                 </div>
                                 <div className="right flex items-center gap-3">
-                                    <label htmlFor='select-filter' className="caption1 capitalize">Sort by</label>
+                                    <label htmlFor='select-filter' className="caption1 capitalize">Sort b</label>
                                     <div className="select-block relative">
                                         <select
                                             id="select-filter"

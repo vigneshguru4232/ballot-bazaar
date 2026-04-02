@@ -3,7 +3,7 @@ import TopNavOne from '@/components/Header/TopNav/TopNavOne'
 import MenuOne from '@/components/Header/Menu/MenuOne'
 import SliderOne from '@/components/Slider/SliderOne'
 import WhatNewOne from '@/components/Home1/WhatNewOne'
-import productData from '@/data/Product.json'
+import productData from '@/data/Product-site.json'
 import Collection from '@/components/Home1/Collection'
 import TabFeatures from '@/components/Home1/TabFeatures'
 import Banner from '@/components/Home1/Banner'
@@ -13,7 +13,8 @@ import Testimonial from '@/components/Home1/Testimonial'
 import Instagram from '@/components/Home1/Instagram'
 import Brand from '@/components/Home1/Brand'
 import Footer from '@/components/Footer/Footer'
-import ModalNewsletter from '@/components/Modal/ModalNewsletter'
+import ModalNewsletter from '@/components/Modal/ModalNewsletter';
+import AboutUs from '@/components/Home1/aboutUs';
 
 export default function Home() {
   return (
@@ -23,16 +24,17 @@ export default function Home() {
         <MenuOne props="bg-transparent" />
         <SliderOne />
       </div>
+      <AboutUs />
       <WhatNewOne data={productData} start={0} limit={4} />
       <Collection />
-      <TabFeatures data={productData} start={0} limit={6} />
+      {/* <TabFeatures data={productData} start={0} limit={6} /> */}
       <Banner />
       <Benefit props="md:py-20 py-10" />
       <Testimonial data={testimonialData} limit={6} />
       <Instagram />
       <Brand />
       <Footer />
-      <ModalNewsletter />
+      {/* <ModalNewsletter /> */}
     </>
   )
 }

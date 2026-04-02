@@ -1,10 +1,9 @@
 [
-
   {
     "id": "1",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "TVK Whistle",
+    "type": "top",
+    "name": "mesh shirt",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -26,24 +25,24 @@
         "color": "red",
         "colorCode": "#DB4444",
         "colorImage": "/images/product/color/48x48.png",
-        "image": "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-1.jpeg"
+        "image": "/images/product/1000x1000.png"
       },
       {
         "color": "yellow",
         "colorCode": "#ECB018",
         "colorImage": "/images/product/color/48x48.png",
-        "image": "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-1.jpeg"
+        "image": "/images/product/1000x1000.png"
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-1.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-1.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-1.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-1.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-1.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-1.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -52,8 +51,8 @@
   {
     "id": "2",
     "category": "fashion",
-    "type": "Badges",
-    "name": "Political Party ID card",
+    "type": "t-shirt",
+    "name": "Raglan Sleeve T-shirt",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -77,18 +76,18 @@
         "color": "white",
         "colorCode": "#F6EFDD",
         "colorImage": "/images/product/color/48x48.png",
-        "image": "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-5.jpeg"
+        "image": "/images/product/1000x1000.png"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
         "colorImage": "/images/product/color/48x48.png",
-        "image": "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-5.jpeg"
+        "image": "/images/product/1000x1000.png"
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-5.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-5.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
       "/images/product/1000x1000.png",
@@ -103,11 +102,11 @@
   {
     "id": "3",
     "category": "fashion",
-    "type": "Campaign Apparel",
-    "name": "Pamplets",
+    "type": "dress",
+    "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
-    "sale": false,
+    "sale": true,
     "rate": 4,
     "price": 32,
     "originPrice": 40,
@@ -139,8 +138,8 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-3.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-3.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
       "/images/product/1000x1000.png",
@@ -155,11 +154,11 @@
   {
     "id": "4",
     "category": "fashion",
-    "type": "Badges",
-    "name": "ADMK Badge",
+    "type": "t-shirt",
+    "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
-    "sale": false,
+    "sale": true,
     "rate": 5,
     "price": 24,
     "originPrice": 32,
@@ -193,8 +192,8 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-4.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-4.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
       "/images/product/1000x1000.png",
@@ -209,8 +208,8 @@
   {
     "id": "5",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "DMK key Chain",
+    "type": "dress",
+    "name": "mesh shirt",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -248,13 +247,13 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-6.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-6.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-6.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-6.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-6.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -263,10 +262,10 @@
   {
     "id": "6",
     "category": "fashion",
-    "type": "Campaign Apparel",
+    "type": "sets",
     "name": "Raglan Sleeve T-shirt",
     "gender": "women",
-    "new": false,
+    "new": true,
     "sale": false,
     "rate": 5,
     "price": 36,
@@ -304,14 +303,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-7.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-7.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-7.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-7.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-7.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-7.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -320,7 +319,7 @@
   {
     "id": "7",
     "category": "fashion",
-    "type": "Rally Materials",
+    "type": "shirt",
     "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
@@ -362,14 +361,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-8.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-8.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-8.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-8.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-8.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-8.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -378,8 +377,8 @@
   {
     "id": "8",
     "category": "fashion",
-    "type": "Rally Materials",
-    "name": "DKM Rally board",
+    "type": "sets",
+    "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -423,8 +422,8 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-9.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-9.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
       "/images/product/1000x1000.png",
@@ -439,10 +438,10 @@
   {
     "id": "9",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "DMK Notepad",
+    "type": "t-shirt",
+    "name": "mesh shirt",
     "gender": "women",
-    "new": false,
+    "new": true,
     "sale": false,
     "rate": 4,
     "price": 35,
@@ -478,14 +477,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -494,8 +493,8 @@
   {
     "id": "10",
     "category": "fashion",
-    "type": "Stickers",
-    "name": "ADMK Scrach card",
+    "type": "t-shirt",
+    "name": "Raglan Sleeve T-shirt",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -541,14 +540,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-11.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-11.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-10.jpeg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -557,11 +556,11 @@
   {
     "id": "11",
     "category": "fashion",
-    "type": "Rally Materials",
-    "name": "ADMK Card",
+    "type": "t-shirt",
+    "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
-    "sale": false,
+    "sale": true,
     "rate": 4,
     "price": 32,
     "originPrice": 40,
@@ -593,14 +592,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-12.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-12.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-12.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-12.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-12.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-12.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -609,11 +608,11 @@
   {
     "id": "12",
     "category": "fashion",
-    "type": "Stickers",
+    "type": "sets",
     "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
-    "sale": false,
+    "sale": true,
     "rate": 5,
     "price": 24,
     "originPrice": 32,
@@ -654,14 +653,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-13.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-13.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-13.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-13.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-13.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-13.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -670,10 +669,10 @@
   {
     "id": "13",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "Political Party Phone Stand",
+    "type": "t-shirt",
+    "name": "mesh shirt",
     "gender": "women",
-    "new": false,
+    "new": true,
     "sale": false,
     "rate": 4,
     "price": 35,
@@ -714,14 +713,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-14.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-14.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-14.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-14.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-14.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-14.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -730,8 +729,8 @@
   {
     "id": "14",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "Calender",
+    "type": "sets",
+    "name": "Raglan Sleeve T-shirt",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -777,14 +776,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-15.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-15.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-15.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-15.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-15.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-15.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -793,8 +792,8 @@
   {
     "id": "15",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "Tea Coaster",
+    "type": "top",
+    "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -835,14 +834,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-16.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-16.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-16.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-16.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-16.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-16.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -851,8 +850,8 @@
   {
     "id": "16",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "Party Gift Box",
+    "type": "top",
+    "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -896,14 +895,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-17.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-17.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-17.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-17.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-17.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-17.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -912,11 +911,11 @@
   {
     "id": "22",
     "category": "fashion",
-    "type": "Stickers",
+    "type": "t-shirt",
     "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
-    "sale": false,
+    "sale": true,
     "rate": 5,
     "price": 24,
     "originPrice": 29,
@@ -957,14 +956,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-18.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-18.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-18.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-18.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-18.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-18.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -973,8 +972,8 @@
   {
     "id": "23",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "Pocket Calender",
+    "type": "t-shirt",
+    "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1019,14 +1018,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-19.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-19.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-19.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-19.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-19.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-19.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -1035,8 +1034,8 @@
   {
     "id": "17",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "Wall Calender",
+    "type": "t-shirt",
+    "name": "mesh shirt",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1080,14 +1079,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-20.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-20.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-20.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-20.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-20.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-20.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -1096,8 +1095,8 @@
   {
     "id": "18",
     "category": "fashion",
-    "type": "Stickers",
-    "name": "Dome Strickers",
+    "type": "shirt",
+    "name": "Raglan Sleeve T-shirt",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1143,14 +1142,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-21.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-21.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-21.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-21.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-21.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-21.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -1159,8 +1158,8 @@
   {
     "id": "19",
     "category": "fashion",
-    "type": "Gifts",
-    "name": "Phone Grip",
+    "type": "dress",
+    "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1201,14 +1200,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-22.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-22.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-22.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-22.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-22.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-22.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -1217,8 +1216,8 @@
   {
     "id": "20",
     "category": "fashion",
-    "type": "Campaign Apparel",
-    "name": "Leg Stand",
+    "type": "top",
+    "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1262,14 +1261,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-23.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-23.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-23.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-23.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-23.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-23.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -1278,8 +1277,8 @@
   {
     "id": "21",
     "category": "fashion",
-    "type": "Campaign Apparel",
-    "name": "LED Leg Stand",
+    "type": "t-shirt",
+    "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1324,14 +1323,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-24.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-24.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-24.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-24.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-24.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-24.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -1340,8 +1339,8 @@
   {
     "id": "24",
     "category": "fashion",
-    "type": "Campaign Apparel",
-    "name": "PA Card",
+    "type": "t-shirt",
+    "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1386,14 +1385,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-25.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-25.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-25.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-25.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-25.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-25.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -1402,8 +1401,8 @@
   {
     "id": "241",
     "category": "fashion",
-    "type": "Campaign Apparel",
-    "name": "Political Party T-shirt",
+    "type": "t-shirt",
+    "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1436,12 +1435,12 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-26.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-26.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-26.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-26.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -1450,8 +1449,8 @@
   {
     "id": "25",
     "category": "fashion",
-    "type": "Rally Materials",
-    "name": "Party Cap",
+    "type": "shirt",
+    "name": "Shirt Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1496,14 +1495,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-27.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-27.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-27.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-27.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-27.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-27.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -1512,8 +1511,8 @@
   {
     "id": "26",
     "category": "fashion",
-    "type": "Rally Materials",
-    "name": "ADMK Cap",
+    "type": "shirt",
+    "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1558,14 +1557,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-28.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-28.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-28.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-28.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-28.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-28.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -1574,8 +1573,8 @@
   {
     "id": "27",
     "category": "fashion",
-    "type": "Campaign Apparel",
-    "name": "Rounded Neck T-shirt",
+    "type": "shirt",
+    "name": "T-shirt Pockets",
     "gender": "men",
     "new": false,
     "sale": true,
@@ -1620,14 +1619,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-29.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-29.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-29.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-29.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-29.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-29.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -1636,8 +1635,8 @@
   {
     "id": "28",
     "category": "fashion",
-    "type": "Rally Materials",
-    "name": "Cotton Party Towels",
+    "type": "underwear",
+    "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1681,14 +1680,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-30.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-30.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-30.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-30.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-30.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-30.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -1697,8 +1696,8 @@
   {
     "id": "29",
     "category": "fashion",
-    "type": "Rally Materials",
-    "name": "Party Mufler",
+    "type": "swimwear",
+    "name": "mesh shirt",
     "gender": "women",
     "new": true,
     "sale": false,
@@ -1732,24 +1731,24 @@
         "color": "black",
         "colorCode": "#555",
         "colorImage": "/images/product/color/48x48.png",
-        "image": "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-31.jpg"
+        "image": "/images/product/1000x1000.png"
       },
       {
         "color": "purple",
         "colorCode": "#8684D4",
         "colorImage": "/images/product/color/48x48.png",
-        "image": "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-31.jpg"
+        "image": "/images/product/1000x1000.png"
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-31.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-31.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-31.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-31.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-31.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-31.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -1758,10 +1757,10 @@
   {
     "id": "30",
     "category": "fashion",
-    "type": "Rally Materials",
-    "name": "Party Saree",
+    "type": "swimwear",
+    "name": "Raglan Sleeve T-shirt",
     "gender": "women",
-    "new": false,
+    "new": true,
     "sale": false,
     "rate": 5,
     "price": 28,
@@ -1805,14 +1804,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-32.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-32.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-32.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-32.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-32.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-32.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "quick shop",
@@ -1821,8 +1820,8 @@
   {
     "id": "31",
     "category": "fashion",
-    "type": "Rally Materials",
-    "name": "ADMK Saree",
+    "type": "underwear",
+    "name": "Off-the-Shoulder Blouse",
     "gender": "women",
     "new": false,
     "sale": true,
@@ -1863,14 +1862,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-33.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-33.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-33.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-33.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-33.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-33.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",
@@ -1879,11 +1878,11 @@
   {
     "id": "32",
     "category": "fashion",
-    "type": "Rally Materials",
-    "name": "TVK Umbrells",
+    "type": "swimwear",
+    "name": "Kimono sleeve top",
     "gender": "women",
     "new": false,
-    "sale": false,
+    "sale": true,
     "rate": 5,
     "price": 24,
     "originPrice": 32,
@@ -1924,14 +1923,14 @@
       }
     ],
     "thumbImage": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-34.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-34.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "images": [
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-34.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-34.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-34.jpg",
-      "https://ballot-bazaar.s3.us-east-1.amazonaws.com/Products/pro-34.jpg"
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png",
+      "/images/product/1000x1000.png"
     ],
     "description": "Keep your home organized, yet elegant with storage cabinets by Onita Patio Furniture. Traditionally designed, they are perfect to be used in the any place where you need to store.",
     "action": "add to cart",

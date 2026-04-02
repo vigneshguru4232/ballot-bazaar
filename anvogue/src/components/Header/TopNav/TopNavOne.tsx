@@ -31,7 +31,7 @@ const TopNavOne: React.FC<Props> = ({ props, slogan }) => {
                             >
                                  <Icon.Phone size={16} color='#fff' />
                                 <div className="select relative">
-                                    <p className="selected   text-white">Phone: +91 12345678910</p>
+                                    <p className="selected   text-white">Phone: +91 9159344244</p>
                                     {/* <ul className={`list-option bg-white ${isOpenLanguage ? 'open' : ''}`}>
                                         {
                                             ['English', 'Espana', 'France'].map((item, index) => (
@@ -50,7 +50,7 @@ const TopNavOne: React.FC<Props> = ({ props, slogan }) => {
                             >
                                 <Icon.Envelope size={16} color='#fff' />
                                 <div className="select relative">
-                                    <p className="selected caption2 text-white">dummymail@gmail.com</p>
+                                    <p className="selected caption2 text-white">ping@ballotbazaar.com</p>
                                 </div>
                             </div>
                         </div>

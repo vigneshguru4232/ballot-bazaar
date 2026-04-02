@@ -79,7 +79,14 @@ const MenuPet = () => {
                             <i className="icon-category text-2xl"></i>
                         </div>
                         <Link href={'/'} className='flex items-center'>
-                            <div className="heading4">Anvogue</div>
+                            {/* <div className="heading4">Anvogue</div> */}
+                        <Image
+                            src={"/images/avatar/1.png"}
+                            width={200}
+                            height={200}
+                            alt='avatar'
+                            className='w-full h-full object-cover'
+                        />
                         </Link>
                         <div className="form-search w-[54%] pl-8 flex items-center h-[48px] max-lg:hidden">
                             <div className='w-full flex items-center h-full'>
