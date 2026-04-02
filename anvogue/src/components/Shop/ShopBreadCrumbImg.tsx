@@ -215,15 +215,15 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                     <div className="container lg:pt-[134px] pt-24 pb-10 relative">
                         <div className="main-content w-full h-full flex flex-col items-center justify-center relative z-[1]">
                             <div className="text-content">
-                                <div className="heading2 text-center">{dataType === null ? 'Shop' : dataType}</div>
+                                <div className="heading2 text-center">{dataType === null ? 'Collections' : dataType}</div>
                                 <div className="link flex items-center justify-center gap-1 caption1 mt-3">
                                     <Link href={'/'}>Homepage</Link>
                                     <Icon.CaretRight size={14} className='text-secondary2' />
-                                    <div className='text-secondary2 capitalize'>{dataType === null ? 'Shop' : dataType}</div>
+                                    <div className='text-secondary2 capitalize'>{dataType === null ? 'Collections' : dataType}</div>
                                 </div>
                             </div>
                             <div className="list-tab flex flex-wrap items-center justify-center gap-y-5 gap-8 lg:mt-[70px] mt-12 overflow-hidden">
-                                {['t-shirt', 'dress', 'top', 'swimwear', 'shirt'].map((item, index) => (
+                                {['Campaign Apparel', 'Rally Materials', 'Stickers', 'Badges', 'Gifts', 'Banners'].map((item, index) => (
                                     <div
                                         key={index}
                                         className={`tab-item text-button-uppercase cursor-pointer has-line-before line-2px ${dataType === item ? 'active' : ''}`}
@@ -234,7 +234,7 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                 ))}
                             </div>
                         </div>
-                        <div className="bg-img absolute top-2 -right-6 max-lg:bottom-0 max-lg:top-auto w-1/3 max-lg:w-[26%] z-[0] max-sm:w-[45%]">
+                        {/* <div className="bg-img absolute top-2 -right-6 max-lg:bottom-0 max-lg:top-auto w-1/3 max-lg:w-[26%] z-[0] max-sm:w-[45%]">
                             <Image
                                 src={'/images/slider/bg1-1.png'}
                                 width={1000}
@@ -242,7 +242,7 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                 alt=''
                                 className=''
                             />
-                        </div>
+                        </div> */}
                     </div>
                 </div>
             </div>
@@ -315,7 +315,7 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                     <label htmlFor="filter-sale" className='cation1 cursor-pointer'>Show only products on sale</label>
                                 </div>
                             </div>
-                            <div className="right flex items-center gap-3">
+                            {/* <div className="right flex items-center gap-3">
                                 <label htmlFor='select-filter' className="caption1 capitalize">Sort by</label>
                                 <div className="select-block relative">
                                     <select
@@ -333,7 +333,7 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                     </select>
                                     <Icon.CaretDown size={12} className='absolute top-1/2 -translate-y-1/2 md:right-4 right-2' />
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div
@@ -342,7 +342,7 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                             <div className="filter-type">
                                 <div className="heading6">Products Type</div>
                                 <div className="list-type mt-4">
-                                    {['t-shirt', 'dress', 'top', 'swimwear', 'shirt', 'underwear', 'sets', 'accessories'].map((item, index) => (
+                                    {['Campaign Apparel', 'Rally Materials', 'Stickers', 'Badges', 'Gifts', 'Banners'].map((item, index) => (
                                         <div
                                             key={index}
                                             className={`item flex items-center justify-between cursor-pointer ${dataType === item ? 'active' : ''}`}
@@ -356,7 +356,7 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                     ))}
                                 </div>
                             </div>
-                            <div>
+                            {/* <div>
                                 <div className="filter-size">
                                     <div className="heading6">Size</div>
                                     <div className="list-size flex items-center flex-wrap gap-3 gap-y-4 mt-4">
@@ -404,8 +404,8 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                         </div>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="filter-color">
+                            </div> */}
+                            {/* <div className="filter-color">
                                 <div className="heading6">colors</div>
                                 <div className="list-color flex items-center flex-wrap gap-3 gap-y-4 mt-4">
                                     <div
@@ -458,8 +458,8 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                         <div className="caption1 capitalize">white</div>
                                     </div>
                                 </div>
-                            </div>
-                            <div className="filter-brand">
+                            </div> */}
+                            {/* <div className="filter-brand">
                                 <div className="heading6">Brands</div>
                                 <div className="list-brand mt-4">
                                     {['adidas', 'hermes', 'zara', 'nike', 'gucci'].map((item, index) => (
@@ -482,7 +482,7 @@ const ShopBreadCrumbImg: React.FC<Props> = ({ data, productPerPage, dataType }) 
                                         </div>
                                     ))}
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
 
                         <div className="list-filtered flex items-center gap-3 mt-4">

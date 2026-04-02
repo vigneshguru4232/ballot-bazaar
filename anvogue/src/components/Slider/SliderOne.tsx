@@ -29,13 +29,13 @@ const SliderOne = () => {
                             <div className="slider-item h-full w-full relative">
                                 <div className="container w-full h-full flex items-center relative">
                                     <div className="text-content basis-1/2">
-                                        {/* <div className="text-sub-display">India’s First Political Merchandise Marketplace</div> */}
+                                        <div className="text-sub-display">We power consistent campaigns at every scale</div>
                                         <div className="text-display md:mt-5 mt-2">India’s First Political Merchandise Marketplace</div>
                                         <Link href='/shop/breadcrumb-img' className="button-main md:mt-8 mt-3">Shop Now</Link>
                                     </div>
                                     <div className="sub-img absolute sm:w-1/2 w-3/5 2xl:-right-[60px] -right-[16px] bottom-0">
                                         <Image
-                                            src={'/images/slider/bg1-1.png'}
+                                            src={'/images/siteImages/CarousalImage/img-1.png'}
                                             width={670}
                                             height={936}
                                             alt='bg1-1'
@@ -49,13 +49,13 @@ const SliderOne = () => {
                             <div className="slider-item h-full w-full relative">
                                 <div className="container w-full h-full flex items-center relative">
                                     <div className="text-content basis-1/2">
-                                        {/* <div className="text-sub-display">Sale! Up To 50% Off!</div> */}
+                                        <div className="text-sub-display">All your campaign needs in one place</div>
                                         <div className="text-display md:mt-5 mt-2">Complete Campaign Merchandise Ecosystem</div>
                                         <Link href='/shop/breadcrumb-img' className="button-main md:mt-8 mt-3">Shop Now</Link>
                                     </div>
                                     <div className="sub-img absolute w-1/2 2xl:-right-[60px] -right-[0] sm:-bottom-[60px] bottom-0">
                                         <Image
-                                            src={'/images/slider/bg1-2.png'}
+                                            src={'/images/siteImages/CarousalImage/img-2.png'}
                                             width={670}
                                             height={936}
                                             alt='bg1-2'
@@ -65,17 +65,17 @@ const SliderOne = () => {
                                 </div>
                             </div>
                         </SwiperSlide>
-                        {/* <SwiperSlide>
+                        <SwiperSlide>
                             <div className="slider-item h-full w-full relative">
                                 <div className="container w-full h-full flex items-center relative">
                                     <div className="text-content basis-1/2">
-                                        <div className="text-sub-display">Sale! Up To 50% Off!</div>
-                                        <div className="text-display md:mt-5 mt-2">Stylish Looks for Any Season</div>
+                                        <div className="text-sub-display">Customisable • Bulk-ready • Election-grade</div>
+                                        <div className="text-display md:mt-5 mt-2">Campaign Apparel & Identity</div>
                                         <Link href='/shop/breadcrumb-img' className="button-main md:mt-8 mt-3">Shop Now</Link>
                                     </div>
                                     <div className="sub-img absolute sm:w-1/2 w-2/3 2xl:-right-[60px] -right-[36px] sm:bottom-0 -bottom-[30px]">
                                         <Image
-                                            src={'/images/slider/bg1-3.png'}
+                                            src={'/images/siteImages/CarousalImage/img-3.png'}
                                             width={670}
                                             height={936}
                                             alt='bg1-3'
@@ -84,7 +84,7 @@ const SliderOne = () => {
                                     </div>
                                 </div>
                             </div>
-                        </SwiperSlide> */}
+                        </SwiperSlide>
                     </Swiper>
                 </div>
             </div>

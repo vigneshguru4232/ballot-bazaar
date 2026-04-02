@@ -19,7 +19,7 @@ const Checkout = () => {
                     <div className="container mx-auto h-full">
                         <div className="header-main flex items-center justify-between h-full">
                             <Link href={'/'} className='flex items-center'>
-                                <div className="heading4">Anvogue</div>
+                                <div className="heading4">Anvogu</div>
                             </Link>
                             <button className="max-md:hidden cart-icon flex items-center relative h-fit cursor-pointer" onClick={openModalCart}>
                                 <Icon.Handbag size={24} color='black' />
@@ -154,7 +154,7 @@ const Checkout = () => {
                                 <div className="item flex items-center justify-between gap-6">
                                     <div className="flex items-center gap-6">
                                         <div className="bg_img relative flex-shrink-0 w-[100px] h-[100px]">
-                                            <img src="/images/product/1000x1000.png" alt="product/1000x1000" className="w-full h-full object-cover rounded-lg" />
+                                            {/* <img src="/images/product/1000x1000.png" alt="product/1000x1000" className="w-full h-full object-cover rounded-lg" /> */}
                                             <span className="quantity flex items-center justify-center absolute -top-3 -right-3 w-7 h-7 rounded-full bg-black text-white">1</span>
                                         </div>
                                         <div>
@@ -173,7 +173,7 @@ const Checkout = () => {
                                 <div className="item flex items-center justify-between gap-6">
                                     <div className="flex items-center gap-6">
                                         <div className="bg_img relative flex-shrink-0 w-[100px] h-[100px]">
-                                            <img src="/images/product/1000x1000.png" alt="product/1000x1000" className="w-full h-full object-cover rounded-lg" />
+                                            {/* <img src="/images/product/1000x1000.png" alt="product/1000x1000" className="w-full h-full object-cover rounded-lg" /> */}
                                             <span className="quantity flex items-center justify-center absolute -top-3 -right-3 w-7 h-7 rounded-full bg-black text-white">1</span>
                                         </div>
                                         <div>

@@ -96,7 +96,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
         <>
             {type === "grid" ? (
                 <div className={`product-item grid-type ${style}`}>
-                    <div onClick={() => handleDetailProduct(data.id)} className="product-main cursor-pointer block">
+                    <div  className="product-main cursor-pointer block">
                         <div className="product-thumb bg-white relative overflow-hidden rounded-2xl">
                             {data.new && (
                                 <div className="product-tag text-button-uppercase bg-green px-3 py-0.5 inline-block rounded-full absolute top-3 left-3 z-[1]">
@@ -108,7 +108,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                     Sale
                                 </div>
                             )}
-                            {style === 'style-1' || style === 'style-3' || style === 'style-4' ? (
+                            {/* {style === 'style-1' || style === 'style-3' || style === 'style-4' ? (
                                 <div className="list-action-right absolute top-3 right-3 max-lg:hidden">
                                     {style === 'style-4' && (
                                         <div
@@ -164,7 +164,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                         </div>
                                     ) : <></>}
                                 </div>
-                            ) : <></>}
+                            ) : <></>} */}
                             <div className="product-img w-full h-full aspect-[3/4]">
                                 {activeColor ? (
                                     <>
@@ -213,14 +213,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                     </Marquee>
                                 </>
                             )}
-                            {style === 'style-2' || style === 'style-4' ? (
-                                <div className="list-size-block flex items-center justify-center gap-4 absolute bottom-0 left-0 w-full h-8">
-                                    {data.sizes.map((item, index) => (
-                                        <strong key={index} className="size-item text-xs font-bold uppercase">{item}</strong>
-                                    ))}
-                                </div>
-                            ) : <></>}
-                            {style === 'style-1' || style === 'style-3' ?
+                            {/* {style === 'style-1' || style === 'style-3' ?
                                 <div className={`list-action ${style === 'style-1' ? 'grid grid-cols-2 gap-3' : ''} px-5 absolute w-full bottom-5 max-lg:hidden`}>
                                     {style === 'style-1' && (
                                         <div
@@ -285,7 +278,13 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                     )}
                                 </div>
                                 : <></>
-                            }
+                            } */}  {/* {style === 'style-2' || style === 'style-4' ? (
+                                <div className="list-size-block flex items-center justify-center gap-4 absolute bottom-0 left-0 w-full h-8">
+                                    {data.sizes.map((item, index) => (
+                                        <strong key={index} className="size-item text-xs font-bold uppercase">{item}</strong>
+                                    ))}
+                                </div>
+                            ) : <></>}
                             {style === 'style-2' || style === 'style-5' ?
                                 <>
                                     <div className={`list-action flex items-center justify-center gap-3 px-5 absolute w-full ${style === 'style-2' ? 'bottom-12' : 'bottom-5'} max-lg:hidden`}>
@@ -455,7 +454,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                     ))}
                                 </div>
                             )}
-                            <div className="product-price-block flex items-center gap-2 flex-wrap mt-1 duration-300 relative z-[1]">
+                            {/* <div className="product-price-block flex items-center gap-2 flex-wrap mt-1 duration-300 relative z-[1]">
                                 <div className="product-price text-title">${data.price}.00</div>
                                 {percentSale > 0 && (
                                     <>
@@ -465,8 +464,8 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                         </div>
                                     </>
                                 )}
-                            </div>
-
+                            </div> */}
+{/* 
                             {style === 'style-5' &&
                                 <>
                                     {data.action === 'add to cart' ? (
@@ -491,7 +490,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                         </div>
                                     )}
                                 </>
-                            }
+                            } */}
                         </div>
                     </div>
                 </div>
@@ -626,7 +625,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                                 Quick Shop
                                             </div>
                                             <div className="list-action-right flex items-center justify-center gap-3 mt-4">
-                                                <div
+                                                {/* <div
                                                     className={`add-wishlist-btn w-[32px] h-[32px] flex items-center justify-center rounded-full bg-white duration-300 relative ${wishlistState.wishlistArray.some(item => item.id === data.id) ? 'active' : ''}`}
                                                     onClick={(e) => {
                                                         e.stopPropagation()
@@ -643,7 +642,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                                                             <Icon.Heart size={18} />
                                                         </>
                                                     )}
-                                                </div>
+                                                </div> */}
                                                 <div
                                                     className={`compare-btn w-[32px] h-[32px] flex items-center justify-center rounded-full bg-white duration-300 relative ${compareState.compareArray.some(item => item.id === data.id) ? 'active' : ''}`}
                                                     onClick={(e) => {
@@ -682,7 +681,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                 <div className="product-item style-marketplace p-4 border border-line rounded-2xl" onClick={() => handleDetailProduct(data.id)}>
                     <div className="bg-img relative w-full">
                         <Image className='w-full aspect-square' width={5000} height={5000} src={data.thumbImage[0]} alt="img" />
-                        <div className="list-action flex flex-col gap-1 absolute top-0 right-0">
+                        {/* <div className="list-action flex flex-col gap-1 absolute top-0 right-0">
                             <span
                                 className={`add-wishlist-btn w-8 h-8 bg-white flex items-center justify-center rounded-full box-shadow-sm duration-300 ${wishlistState.wishlistArray.some(item => item.id === data.id) ? 'active' : ''}`}
                                 onClick={(e) => {
@@ -728,7 +727,7 @@ const Product: React.FC<ProductProps> = ({ data, type, style }) => {
                             >
                                 <Icon.ShoppingBagOpen />
                             </span>
-                        </div>
+                        </div> */}
                     </div>
                     <div className="product-infor mt-4">
                         <span className="text-title">{data.name}</span>

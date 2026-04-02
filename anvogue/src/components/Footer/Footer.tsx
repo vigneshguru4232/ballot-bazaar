@@ -9,21 +9,27 @@ const Footer = () => {
             <div id="footer" className='footer'>
                 <div className="footer-main bg-surface">
                     <div className="container">
-                        <div className="content-footer py-[60px] flex justify-between flex-wrap gap-y-8">
+                        <div className="content-footer py-[40px] flex justify-between flex-wrap gap-y-8">
                             <div className="company-infor basis-1/4 max-lg:basis-full pr-7">
                                 <Link href={'/'} className="logo">
-                                    <div className="heading4">Anvogue</div>
+                                    <Image
+                                        src={"/images/logo/Main-logo.png"}
+                                        width={200}
+                                        height={200}
+                                        alt='avatar'
+                                        className=' object-cover'
+                                    />
                                 </Link>
                                 <div className='flex gap-3 mt-3'>
                                     <div className="flex flex-col ">
                                         <span className="text-button">Mail:</span>
                                         <span className="text-button mt-3">Phone:</span>
-                                        <span className="text-button mt-3">Address:</span>
+                                        {/* <span className="text-button mt-3">Address:</span> */}
                                     </div>
                                     <div className="flex flex-col ">
-                                        <span className=''>hi.avitex@gmail.com</span>
-                                        <span className='mt-3'>1-333-345-6868</span>
-                                        <span className='mt-3 pt-px'>549 Oak St.Crystal Lake, IL 60014</span>
+                                        <span className=''>ping@ballotbazaar.com</span>
+                                        <span className='mt-3'>+91 9159344244</span>
+                                        {/* <span className='mt-3 pt-px'>549 Oak St.Crystal Lake, IL 60014</span> */}
                                     </div>
                                 </div>
                             </div>
@@ -84,10 +90,12 @@ const Footer = () => {
                                 </div>
                             </div>
                         </div>
-                        <div className="footer-bottom py-3 flex items-center justify-between gap-5 max-lg:justify-center max-lg:flex-col border-t border-line">
-                            <div className="left flex items-center gap-8">
-                                <div className="copyright caption1 text-secondary">©2023 Anvogue. All Rights Reserved.</div>
-                                <div className="select-block flex items-center gap-5 max-md:hidden">
+                        <div className="footer-bottom py-3 flex items-center gap-5 max-lg:justify-center border-line" style={{ justifyContent: "center" }}>
+                            <div className="left gap-8" >
+                                <div className="copyright caption1 text-secondary">
+                                    © {new Date().getFullYear()} Ballot Bazaar. All Rights Reserved.
+                                </div>
+                                {/* <div className="select-block flex items-center gap-5 max-md:hidden">
                                     <div className="choose-language flex items-center gap-1.5">
                                         <select name="language" id="chooseLanguageFooter" className='caption2 bg-transparent'>
                                             <option value="English">English</option>
@@ -104,9 +112,9 @@ const Footer = () => {
                                         </select>
                                         <Icon.CaretDown size={12} color='#1F1F1F' />
                                     </div>
-                                </div>
+                                </div> */}
                             </div>
-                            <div className="right flex items-center gap-2">
+                            {/* <div className="right flex items-center gap-2">
                                 <div className="caption1 text-secondary">Payment:</div>
                                 <div className="payment-img">
                                     <Image
@@ -162,7 +170,7 @@ const Footer = () => {
                                         className='w-9'
                                     />
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>

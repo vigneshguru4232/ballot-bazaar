@@ -5,7 +5,7 @@ import { useRouter, useSearchParams } from 'next/navigation';
 import TopNavOne from '@/components/Header/TopNav/TopNavOne'
 import MenuOne from '@/components/Header/Menu/MenuOne'
 import ShopBreadCrumbImg from '@/components/Shop/ShopBreadCrumbImg';
-import productData from '@/data/Product.json'
+import productData from '@/data/Product-site.json'
 import Footer from '@/components/Footer/Footer'
 
 export default function BreadcrumbImg() {
